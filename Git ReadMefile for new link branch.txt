@@ -13,3 +13,5 @@ first thing in GIT learning
 8. 'git branch' to check all branch I have and he list out all of them 
 9  'git branch write branch name' he create new branch for us 
 10. 'git checkout write branch name' to switched to we wrote branch name
+11.  to add other branch files into our master branch first we checkout into our master branch
+12. then 'git marge write other branch name' to marge into master branch 
