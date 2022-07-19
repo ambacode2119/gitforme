@@ -1,6 +1,6 @@
 create account for git software in global mode
-1. 'git config --global user.name write username' 
-2. 'git config --global user.email write email' 
+1. 'git config --global user.name write username' ambacode2119
+2. 'git config --global user.email write email' ambayedejene2119
 
 first thing in GIT learning 
 1.  open folder in git software
