@@ -1,0 +1,7 @@
+when we log into github, if we have project we see otherwise we see empty 
+to add project first we click on username then he navigate or redirect us into home
+then we click plus sign and we touch new repository 
+and we write the name of repository
+most of command are come from git we learned and we add some off git command to store project in github 
+git remote add origin write path of folder
+git push -u origin master
